@@ -348,7 +348,7 @@ const Projects = () => {
   );
 
   return (
-    <section id="projects" className="py-24 px-4 bg-gradient-to-b from-[#05021a] to-[#030014] relative">
+    <section id="projects" className="py-24 px-4 bg-gradient-to-b from-[#000000] to-[#000000be] relative">
       {/* Background decoration */}
       <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] glow-orb-purple rounded-full -z-10" />
 

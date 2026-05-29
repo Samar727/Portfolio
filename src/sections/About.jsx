@@ -62,7 +62,7 @@ const StatCard = ({ stat }) => {
 
 const About = () => {
   return (
-    <section id="about" className="py-24 px-4 bg-gradient-to-b from-[#030014] to-[#05021a] relative">
+    <section id="about" className="py-24 px-4 bg-gradient-to-b from-[#000000be] to-[#000000] relative">
       <div className="max-w-7xl mx-auto">
         <SectionHeader
           tag="About Me"

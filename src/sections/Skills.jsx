@@ -66,7 +66,7 @@ const skillCategories = [
 
 const Skills = () => {
   return (
-    <section id="skills" className="py-24 px-4 bg-[#05021a] relative">
+    <section id="skills" className="py-24 px-4 bg-[#000000] relative">
       {/* Glow Orbs */}
       <div className="absolute top-1/3 right-10 w-96 h-96 glow-orb-cyan rounded-full -z-10" />
       <div className="absolute bottom-1/3 left-10 w-96 h-96 glow-orb-purple rounded-full -z-10" />

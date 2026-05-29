@@ -9,7 +9,7 @@ const ThreeBackground = () => {
 
     // Create scene, camera, and renderer
     const scene = new THREE.Scene();
-    scene.fog = new THREE.FogExp2(0x030014, 0.015);
+    scene.fog = new THREE.FogExp2(0x000000be, 0.015);
 
     const camera = new THREE.PerspectiveCamera(
       60,
@@ -218,7 +218,7 @@ const ThreeBackground = () => {
   return (
     <div
       ref={containerRef}
-      className="fixed inset-0 -z-20 pointer-events-none overflow-hidden bg-[#030014]"
+      className="fixed inset-0 -z-20 pointer-events-none overflow-hidden bg-[#000000be]"
       style={{ mixBlendMode: 'screen' }}
     />
   );

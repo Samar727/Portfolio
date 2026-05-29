@@ -55,7 +55,7 @@ function App() {
             initial={{ opacity: 1 }}
             exit={{ opacity: 0, y: -window.innerHeight }}
             transition={{ duration: 0.8, ease: [0.76, 0, 0.24, 1] }}
-            className="fixed inset-0 z-50 bg-[#030014] flex flex-col items-center justify-center text-white"
+            className="fixed inset-0 z-50 bg-[#000000be] flex flex-col items-center justify-center text-white"
           >
             <div className="relative flex flex-col items-center space-y-4">
               

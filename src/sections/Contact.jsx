@@ -90,7 +90,7 @@ const Contact = () => {
   };
 
   return (
-    <section id="contact" className="py-24 px-4 bg-gradient-to-b from-[#030014] to-[#05021a] relative">
+    <section id="contact" className="py-24 px-4 bg-gradient-to-b from-[#000000be] to-[#000000] relative">
       {/* Glow Orbs */}
       <div className="absolute top-1/4 right-10 w-96 h-96 glow-orb-cyan rounded-full -z-10" />
       <div className="absolute bottom-1/4 left-10 w-96 h-96 glow-orb-purple rounded-full -z-10" />

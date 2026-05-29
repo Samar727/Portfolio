@@ -10,7 +10,7 @@ const Footer = () => {
   };
 
   return (
-    <footer className="border-t border-white/5 bg-[#030014] relative z-10 py-12 px-4">
+    <footer className="border-t border-white/5 bg-[#000000be] relative z-10 py-12 px-4">
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6">
         
         {/* Brand/Logo */}

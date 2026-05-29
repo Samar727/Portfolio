@@ -48,7 +48,7 @@ const timelineData = [
 
 const Journey = () => {
   return (
-    <section id="journey" className="py-24 px-4 bg-[#030014] relative">
+    <section id="journey" className="py-24 px-4 bg-[#000000be] relative">
       {/* Background Glow */}
       <div className="absolute top-1/4 left-10 w-[450px] h-[450px] glow-orb-purple rounded-full -z-10" />
       <div className="absolute bottom-1/4 right-10 w-[450px] h-[450px] glow-orb-cyan rounded-full -z-10" />

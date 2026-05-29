@@ -49,7 +49,7 @@ const Github = () => {
   const contributionGrid = React.useMemo(() => generateContributionData(), []);
 
   return (
-    <section id="github" className="py-24 px-4 bg-[#05021a] relative">
+    <section id="github" className="py-24 px-4 bg-[#000000] relative">
       {/* Glow Orbs */}
       <div className="absolute top-1/2 left-10 w-96 h-96 glow-orb-purple rounded-full -z-10" />
 

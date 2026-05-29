@@ -9,11 +9,11 @@
 
 :root {
   color-scheme: dark;
-  --bg-color: #030014;
+  --bg-color: #000000be;
   --accent-purple: 168, 85, 247;
   --accent-cyan: 6, 182, 212;
 }
-
+/* 070708 000000 000000be */
 * {
   box-sizing: border-box;
   /* margin: 0; */
@@ -44,7 +44,7 @@ body {
 }
 
 ::-webkit-scrollbar-track {
-  background: #05021a;
+  background: #000000be;
 }
 
 ::-webkit-scrollbar-thumb {
@@ -58,7 +58,7 @@ body {
 
 /* Premium Selection */
 ::selection {
-  background: rgba(168, 85, 247, 0.3);
+  background: #000000be;
   color: #ffffff;
 }
 
@@ -72,7 +72,7 @@ body {
 }
 
 .glass-card {
-  background: rgba(255, 255, 255, 0.02);
+  background: #000000be;
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   border: 1px solid rgba(255, 255, 255, 0.05);
