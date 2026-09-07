@@ -105,7 +105,7 @@ function App() {
             <About />
 
             {/* Specialized skills categorical sheets */}
-            <Skills />
+            {/* <Skills /> */}
 
             {/* Filterable expandable Projects showcase */}
             <Projects />
