@@ -111,7 +111,7 @@ function App() {
             <Projects />
 
             {/* Chronological learning timeline */}
-            <Journey />
+            {/* <Journey /> */}
 
             {/* Open source contribution dashboard */}
             <Github />
